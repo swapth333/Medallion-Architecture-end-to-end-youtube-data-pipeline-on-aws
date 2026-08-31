@@ -4,7 +4,7 @@ Gold Bucket Name - yt-data-pipeline-swap-gold-dev
 
 Scripts Bucket - yt-data-pipeline-swap-scripts-dev
 
-SNS arn - arn:aws:sns:us-east-1:903126308419:yt-data-pipeline-alerts-dev:458ccdbd-ead2-4424-83bc-e31527ec3a57
+SNS arn - arn:aws:sns:us-east-1:<AWS_ACCOUNT_ID>:yt-data-pipeline-alerts-dev:458ccdbd-ead2-4424-83bc-e31527ec3a57
 
 glue bronze yt_pipeline_bronze_dev
 glue silver yt_pipeline_silver_dev
